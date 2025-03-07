@@ -1,0 +1,13 @@
+# Ignora todos los archivos en la carpeta
+privado/
+
+# Igonar todas las images en mi caso una es .gif y otra .jpg
+*.gif
+*.jpg
+
+# Ignorar el video con extensión .mp4
+*.mp4
+
+# Ignorar los archivos expecíficos que le indiquemos en este caso db.sql y passwords.txt
+db.sql
+password.txt
