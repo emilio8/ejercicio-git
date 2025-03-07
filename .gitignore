@@ -11,3 +11,8 @@ privado/
 # Ignorar los archivos expecíficos que le indiquemos en este caso db.sql y passwords.txt
 db.sql
 password.txt
+
+# Ignorar todos los archivos con la extensión .zip .rar y .7z
+*.zip
+*.rar
+*.7z
